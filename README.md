@@ -8,6 +8,8 @@ Kim, Seonpyo, Geonhui Kim, Shoki Yagishita, Daewoon Han, Jeonghyeon Im, and Yuns
 
 [![MDPI – Applied Sciences](https://img.shields.io/badge/MDPI-Applied%20Sciences-1D4B8F.svg?style=flat-square)](https://www.mdpi.com/2076-3417/15/15/8646)
 
+<img width="3011" height="1759" alt="image" src="https://github.com/user-attachments/assets/f616c928-10e8-449e-8bf0-2485fd896b17" />
+
 </div>
 
 ## Overview
@@ -22,7 +24,7 @@ Recent advancements in generative artificial intelligence have significantly pro
 
 Keywords: text-to-music generation; Parameter-Efficient Fine-Tuning (PEFT); low-rank adaptation (LoRA)
 
-<img width="3011" height="1759" alt="image" src="https://github.com/user-attachments/assets/f616c928-10e8-449e-8bf0-2485fd896b17" />
+
 
 
 ## Project Structure
