@@ -159,8 +159,6 @@ class HfAudioDataset(Dataset):
         if caption is None:
             print(f"Warning: No text found for index {index}")
             caption = ""
-            
-
 
         return data
 

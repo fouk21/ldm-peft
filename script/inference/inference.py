@@ -53,7 +53,6 @@ def calc_kernel_audio_distance(x, y, device="cuda", bandwidth=None):
     return (k_xx_mean + k_yy_mean - 2 * k_xy_mean).item()
 
 def compute_kad_score(gen_audios, ref_audios, clap_model, clap_processor, device, bandwidth=1):
-def compute_kad_score(gen_audios, ref_audios, clap_model, clap_processor, device, bandwidth=1):
     gen_embeds, ref_embeds = [], []
 
     for gen, ref in zip(gen_audios, ref_audios):
